@@ -9,4 +9,4 @@
 - **🎯 Focus Areas**: Modern JavaScript/TypeScript, ux, and performance optimization.
 - **🔥 Current Goal**: Building seamless, user-friendly interfaces that simplify security and monitoring.
 
-## 🤝 Open to discussions, suggestions, and new ideas. 🌟
+### 🤝 Open to discussions, suggestions, and new idea, get in touch! 🌟
