@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **Francesco Napoletano**
+# 👋 Hey there, I’m **Napo**
 
 ### Staff Software Engineer • Technical Leader • Mentor
 
