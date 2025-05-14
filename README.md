@@ -16,7 +16,7 @@
 
 | Frontend | Backend | Platform | Workflow |
 | :-- | :-- | :-- | :-- |
-| React & Next.js • TypeScript • Vite | Node.js • Go | Docker • Kubernetes • AWS | CI/CD • IaC • TDD |
+| React & Next.js • TypeScript | Node.js • Go | Docker • Kubernetes • AWS | CI/CD • IaC • TDD |
 
 *(…plus whatever tomorrow’s challenge requires.)*
 
@@ -25,7 +25,7 @@
 ## 🌍  In the Wild
 
 - 🎤 **Conference Speaker** – WeAreDevelopers, Codemotion, Open Source Day, and meet‑ups across Europe.  
-- 🤝 **Community Builder** – Organizer of local tech gatherings and regular mentor on career‑switch programs.
+- 🤝 **Community Builder** – Founder of [fullremote.it](https://fullremote.it) and regular mentor on career‑switch programs.
 
 ---
 
