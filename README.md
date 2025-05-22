@@ -4,14 +4,6 @@
 
 ---
 
-## 🚀  What I’m About
-
-- **User‑First Engineering** – I obsess over clean, fast and accessible interfaces that delight real people.  
-- **Performance & Architecture** – From bundle‑level profiling to Kubernetes clusters, I keep things lean and scalable.  
-- **People Growth** – I mentor engineers, nurture teams, and cultivate a culture of continuous learning.
-
----
-
 ## 🧰  Everyday Toolkit
 
 | Frontend | Backend | Platform | Workflow |
@@ -19,15 +11,6 @@
 | React & Next.js • TypeScript | Node.js • Go | Docker • Kubernetes • AWS | CI/CD • IaC • TDD |
 
 *(…plus whatever tomorrow’s challenge requires.)*
-
----
-
-## 🌍  In the Wild
-
-- 🎤 **Conference Speaker** – WeAreDevelopers, Codemotion, Open Source Day, and meet‑ups across Europe.  
-- 🤝 **Community Builder** – Founder of [fullremote.it](https://fullremote.it) and regular mentor on career‑switch programs.
-
----
 
 ## 🔭  Current Focus
 
