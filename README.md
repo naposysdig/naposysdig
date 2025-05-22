@@ -1,10 +1,8 @@
 # 👋 Hey there, I’m **Napo**
 
-### Staff Software Engineer • Technical Leader • Mentor
+## Staff Software Engineer • Technical Leader • Mentor
 
----
-
-## 🧰  Everyday Toolkit
+### 🧰  Everyday Toolkit
 
 | Frontend | Backend | Platform | Workflow |
 | :-- | :-- | :-- | :-- |
@@ -12,11 +10,9 @@
 
 *(…plus whatever tomorrow’s challenge requires.)*
 
-## 🔭  Current Focus
+### 🔭  Current Focus
 
 Building seamless, **blazingly‑fast** web experiences that scale to millions while staying a joy to maintain.
-
----
 
 ### 💬  Let’s Connect
 
