@@ -21,4 +21,4 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/francesconapoletano/) or 
 
 ---
 
-_“Code changes fast—people and experiences endure. Let’s craft both with care.”_
+_“Code changes fast, people and experiences endure. Let's craft both with care.”_
