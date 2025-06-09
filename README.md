@@ -18,7 +18,3 @@ Building seamless, **blazingly‑fast** web experiences that scale to millions w
 
 I’m always up for sharing ideas, sparring over architecture decisions, or planning the next community event.  
 Reach me on [LinkedIn](https://www.linkedin.com/in/francesconapoletano/) or open an issue/PR right here.
-
----
-
-_“Code changes fast, people and experiences endure. Let's craft both with care.”_
